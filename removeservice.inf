@@ -1,0 +1,10 @@
+[Version]
+Signature = "$Windows NT$"
+
+[DefaultInstall.NT]
+
+[DefaultInstall.NT.Services]
+
+; SPSVCINST_DELETEEVENTLOGENTRY | SPSVCINST_STOPSERVICE
+
+DelService = EuMusDesignVirtualAudioCableWdm,0x204

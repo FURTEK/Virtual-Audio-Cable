@@ -1,0 +1,17 @@
+Virtual Audio Cable 4.14.0.6289 (full version)
+==============================================
+Copyright (C) 1998-2014 Eugene V. Muzychenko
+
+For Windows XP/2k3/Vista/Win7/Win8 (32/64)
+
+Creates audio "cable" devices like a real
+sound card with its input connected to its
+output. Allows to pass audio data from one
+application to another. Useful when you need
+to record/process of application's audio
+output instead of immediately hearing it. Also
+allows to distribute audio source among
+several applications, to record mixed output
+from several applications and so on. Uses
+Kernel Streaming WDM technology, supports
+format conversion and volume control.

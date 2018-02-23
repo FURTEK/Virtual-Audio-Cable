@@ -1,0 +1,158 @@
+
+Software License Agreement
+----------------------------------------------------------------------
+
+Copyright of this software product remains the property of the Author,
+Eugene V. Muzychenko. Use of this software is allowed only upon
+agreement of this license. The Author (here in after refereed to as the
+Licensor) grants you (here in after refereed as the Licensee) a
+non-exclusive license to use this software in accordance with the terms
+of this agreement.
+
+----------------------------------------------------------------------
+
+
+1. CONCLUSION AND TERMINATION OF THIS AGREEMENT
+
+- The Licensee is deemed to have concluded this agreement when the
+Licensee copies part or the whole of this software, or when the
+Licensee starts to use the program included in this software. Here, use
+of the program refers to executing the program executable files on a PC.
+
+
+- This agreement may be terminated by the Licensee at any time.
+
+- This software and any copy of it shall be erased upon termination of
+this agreement.
+
+
+2. RIGHTS AND OBLIGATIONS
+
+- Free TRIAL version of this software can be used, reproduced and
+distributed freely on non-profit basis. Only a FULL version, lawfully
+obtained, is permitted for any kind of commercial usage. A copy of the
+FULL version can be distributed only together with its lawfully
+purchased license.
+
+- Audio Repeater application included into distribution package can be
+used freely, even without installing entire VAC product. There are no
+functionality limitations for this application in the TRIAL package.
+
+- The Licensee is permitted to distribute the TRIAL version of this
+software in accordance with the following terms:
+
+(1) The Licensee agrees not to modify content and structure of this
+software. However, the Licensee may compress/archive this software if
+it can be unpacked using commonly used methods.
+
+(2) The Licensee agrees not to profit from provision of this software
+to a third parties. However, TRIAL version of this software can be
+freely distributed together with another product, including commercial
+ones.
+
+- For the FULL version, a lawfully obtained software copy can be used in
+accordance with the following terms:
+
+(1) if the software is used for non-commercial purposes in a private home
+environment, a single license is enough for all home computers;
+
+(2) if the software is used for commercial purposes and/or for real-time
+outdoor broadcasting (for example, network audio streaming), each
+additional running instance, regardless of whether real or virtual machine,
+requires an additional license. Thus, number of instances running at the
+same time must not exceed number of licenses acquired.
+
+The "running instance" means VAC driver that transfers audio streams
+through Virtual Cables. If there are no active streams (Virtual Cable
+devices are not used), there are no running instances in the system.
+
+Copies of FULL version distribution package can be made for backup purposes
+only.
+
+- Owner of a lawfully purchased license (or multiple licenses) to the
+FULL version is permitted to pass (not to replicate) them to a third
+party. In such case, a third party became a new Licensee and must
+acknowledge this Agreement. Licenses obtained from the licenser without
+a payment can be passed without a payment too.
+
+- When the Licensee passes last of licenses owned, the Licensee loses
+all rights to the FULL version and must not retain any copies of the
+FULL version.
+
+
+
+3. SUPPORT POLICY
+
+The Licensor provides TECHNICAL support for the software product.
+Technical support is free of charge for all cases when the product
+works not as described in the documentation, within one year since
+product purchase.
+
+The user must consult the documentation before asking for support.
+
+Three support levels are available, chosen in order form:
+
+- Self-support. This level is intended for advanced users only. Only
+detailed, technically competent bug reports, formed as described in the
+user manual, are accepted. Additionally, technically competent
+questions about important technical details not described in the user
+manual are accepted. Other requests are not accepted. Before sending a
+request, the user must carefully read all the documentation and clearly
+understand all product specialities. The user also must ensure that the
+product is used as described in the documentation and take measures to
+isolate the problem. Lost download details recovery is not supported.
+
+- Basic support. Free-form informative problem reports and technical
+questions not answered/explained in the documentation are accepted. A
+support request must be detailed enough to explain the problem clearly.
+Before asking for support, the user must read all the documentation and use
+context search feature with keywords specific to a problem to find
+information and possible solution. Non-informative problem reports like
+"the product does not work" and requests asking for prepared solutions like
+"how to setup application X to use it with the product" are not accepted.
+Requests that require testing the product with third-party software are not
+accepted. For lost download details, one recovery request is allowed.
+
+- Extended support. All support requests are accepted. Before asking for
+support, the user must read important parts of the documentation
+("Principles", "Basic usage rules", "Examples", "How to...",
+"Troubleshooting", "Frequently asked questions"). Informative problem
+description will speed-up request processing. Requests that require testing
+the product with third-party software are satisfied only if all needed
+software is available for free download (no payment, subscripton or even
+e-mail address specification requirements). For lost download details,
+three recovery requests are allowed.
+
+Bugfixes and upgrades/downgrades within the same major product version
+are provided freely for all support levels.
+
+Support requests are processes within 2-3 business days.
+
+For user requests not related to incorrect product functioning and/or
+issued after one-year period, additional processing time and/or payment
+may be required.
+
+The Licensor provides no training in product, three-party software,
+operating system or general computer usage.
+
+
+
+4. REFUND POLICY
+
+Refunds are possible only if ALL conditions listed below are met:
+
+- The software is installed and used exactly as described.
+
+- The software works not as described and some of its key features
+listed in the documentation are not supported.
+
+- There is no workaround to make the software working properly.
+
+
+
+5. LIABILITY
+
+THIS SOFTWARE IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS
+EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. THE LICENSOR WILL
+NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND
+OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
